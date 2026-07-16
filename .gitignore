@@ -1,0 +1,50 @@
+# --- IDE/Editor ---
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# --- 依赖目录 ---
+node_modules/
+node_moduled/
+bower_components/
+vendor/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- 构建产物 ---
+/dist/
+/build/
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.o
+*.obj
+
+# --- 日志和临时文件 ---
+*.log
+*.tmp
+*.temp
+.env
+.env.local
+
+# --- 系统文件 ---
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# --- 其他 ---
+.git-rewrite/
+*.orig
