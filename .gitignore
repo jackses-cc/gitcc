@@ -9,10 +9,10 @@
 .DS_Store
 Thumbs.db
 
-# --- Agents / AI ¹¤¾ßÅäÖÃ ---
+# --- Agents / AI å·¥å…·é…ç½® ---
 .agents/
 
-# --- ÒÀÀµÄ¿Â¼ ---
+# --- ä¾èµ–ç›®å½• ---
 node_modules/
 node_moduled/
 bower_components/
@@ -22,7 +22,7 @@ __pycache__/
 .venv/
 venv/
 
-# --- ¹¹½¨²úÎï ---
+# --- æ„å»ºäº§ç‰© ---
 /dist/
 /build/
 *.exe
@@ -33,14 +33,14 @@ venv/
 *.o
 *.obj
 
-# --- ÈÕÖ¾ºÍÁÙÊ±ÎÄ¼ş ---
+# --- æ—¥å¿—å’Œä¸´æ—¶æ–‡ä»¶ ---
 *.log
 *.tmp
 *.temp
 .env
 .env.local
 
-# --- ÏµÍ³ÎÄ¼ş ---
+# --- ç³»ç»Ÿæ–‡ä»¶ ---
 .DS_Store?
 ._*
 .Spotlight-V100
@@ -48,6 +48,6 @@ venv/
 ehthumbs.db
 Desktop.ini
 
-# --- ÆäËû ---
+# --- å…¶ä»– ---
 .git-rewrite/
 *.orig
