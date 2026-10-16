@@ -5,6 +5,6 @@
 #   安装依赖：    pip install -r requirements.txt
 #   导出依赖：    pip freeze > requirements.txt
 #
-# 在下面按需添加依赖，例如：
-# requests>=2.32.0
-# python-dotenv>=1.0.1
+# 直接依赖（间接依赖由 pip 自动解析）
+requests==2.34.2
+python-dotenv==1.2.4
